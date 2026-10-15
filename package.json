@@ -1,0 +1,13 @@
+{
+  "name": "multi-service-booking-system",
+  "version": "1.0.0",
+  "description": "Multi-Service Booking System - University Project",
+  "scripts": {
+    "install:all": "cd server && npm install",
+    "dev": "cd server && npm run dev",
+    "start": "cd server && npm start"
+  },
+  "keywords": ["booking", "appointment", "nodejs", "express", "mongodb"],
+  "author": "",
+  "license": "MIT"
+}
